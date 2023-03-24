@@ -284,6 +284,7 @@ nav .mainMenu li a {
  text-transform: uppercase;
  color: rgb(255, 255, 255);
  font-size: 18px;
+ font-weight: bold;
  font-family: "Poppins", sans-serif;
  
  transition: 0.2s ease;
